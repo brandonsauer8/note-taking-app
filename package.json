@@ -1,0 +1,23 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jest": "^27.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonsauer8/note-taking-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonsauer8/note-taking-app/issues"
+  },
+  "homepage": "https://github.com/brandonsauer8/note-taking-app#readme"
+}
